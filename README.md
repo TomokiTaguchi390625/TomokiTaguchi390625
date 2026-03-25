@@ -1,5 +1,5 @@
 ## Hi, I'm Tomoki👋
-** Student @ The University of Tokyo · Freelance Engineer **
+**Student @ The University of Tokyo · Freelance Engineer**
 
 Undergrad at The University of Tokyo · Building products end-to-end —  from React frontends to AWS infrastructure.
 
