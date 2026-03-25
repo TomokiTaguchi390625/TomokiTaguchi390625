@@ -5,7 +5,7 @@ Undergrad at The University of Tokyo · Building products end-to-end —  from R
 
 ---
  
-## 🛠 Tech Stack
+## Tech Stack
  
 **Languages**
  
@@ -33,7 +33,7 @@ Undergrad at The University of Tokyo · Building products end-to-end —  from R
 
 ---
  
-## 🧑‍💻 About Me
+## About Me
  
-- 🎓 Undergrad at **The University of Tokyo**
-- 💼 Freelance full-stack engineer — building with React, Rails, and AWS (ECS, RDS, Terraform)
+- Undergrad at **The University of Tokyo**
+- Freelance full-stack engineer — building with React, Rails, and AWS (ECS, RDS, Terraform)
